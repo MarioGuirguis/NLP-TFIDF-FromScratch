@@ -29,3 +29,4 @@ Get Unique words after splitting the data to words by using python Set Data Stru
 - pip install -U spacy
 - pip install pandas
 - pip install numpy
+- pip install transformers
